@@ -3,6 +3,6 @@
 - Item Physics Mod
 - Key Mod
 - Inventare umbennen (LeonardoDev)
-- Click GUI? (LeonardoDev?)
-- Cosmetics
+- Click GUI?
+- Cosmetics (LeonardoDev, ...)
 - Custom Main Menu
